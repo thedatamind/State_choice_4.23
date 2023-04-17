@@ -1,3 +1,10 @@
+"""
+This program is designed to help the user make a decision as to what state to move to in the USA 
+based on data gathered about the housing market and the job market. 
+Links to the data source are provided. 
+The only thing left is to set the path to the CSV files at the employment_csv() and the housing_csv().
+"""
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
